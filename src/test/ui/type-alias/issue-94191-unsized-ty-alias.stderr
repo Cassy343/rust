@@ -42,7 +42,7 @@ help: consider removing the `?Sized` bound to make the type parameter `Sized`
    |
 LL - where
 LL -     T: ?Sized,
-   | 
+   |
 
 error: aborting due to 2 previous errors
 
